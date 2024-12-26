@@ -6,6 +6,8 @@
 
 ## Table of contents
 
+# ALL CREDITS TO ADITYA VEKARIYA
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
